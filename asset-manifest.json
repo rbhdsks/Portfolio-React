@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "//rbhdsks.github.io/RPortfolio/static/css/main.359e740a.css",
+    "main.js": "//rbhdsks.github.io/RPortfolio/static/js/main.c34edd13.js",
+    "static/js/453.f45c023c.chunk.js": "//rbhdsks.github.io/RPortfolio/static/js/453.f45c023c.chunk.js",
+    "static/media/c3igrp.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/c3igrp.3ebbe86b63b50b76681c.jpeg",
+    "static/media/c3i.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/c3i.5027c0fde27e7f3a4486.jpeg",
+    "static/media/iskcon.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/iskcon.5d4230f95ae61d8ec0c2.jpeg",
+    "static/media/tesla4.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/tesla4.58bec453eb7b5ae3a4d9.jpeg",
+    "static/media/nitesh.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/nitesh.7306ac63b13f1e508bcb.jpeg",
+    "static/media/tesla2.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/tesla2.a8d9745e0943e8633c85.jpeg",
+    "static/media/tesla3.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/tesla3.7096f8b5a5a647c54af1.jpeg",
+    "static/media/tesla5.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/tesla5.1ee3acf6486866259590.jpeg",
+    "static/media/tesla1.jpeg": "//rbhdsks.github.io/RPortfolio/static/media/tesla1.f157367c68c852bd7b4e.jpeg",
+    "static/media/education.svg": "//rbhdsks.github.io/RPortfolio/static/media/education.b095abd4654f7f5abcce66de6d717330.svg",
+    "index.html": "//rbhdsks.github.io/RPortfolio/index.html",
+    "main.359e740a.css.map": "//rbhdsks.github.io/RPortfolio/static/css/main.359e740a.css.map",
+    "main.c34edd13.js.map": "//rbhdsks.github.io/RPortfolio/static/js/main.c34edd13.js.map",
+    "453.f45c023c.chunk.js.map": "//rbhdsks.github.io/RPortfolio/static/js/453.f45c023c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359e740a.css",
+    "static/js/main.c34edd13.js"
+  ]
+}
