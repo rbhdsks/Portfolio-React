@@ -1,0 +1,36 @@
+[
+    {
+        "id" : 1,
+        "topic" : "Physics informed Neural Networks"
+    },
+
+    {
+        "id" : 2,
+        "topic" : "Deep Learning"
+    },
+
+    {
+        "id" : 3,
+        "topic" : "Image and Video Processing"
+    },
+
+    {
+        "id" : 4,
+        "topic" : "Big Data Analytics"
+    },
+
+    {
+        "id" : 5,
+        "topic" : "Cybersecurity"
+    },
+
+    {
+        "id" : 6,
+        "topic" : "Parallel and Distributed Computing"
+    },
+
+    {
+        "id" : 7,
+        "topic" : "Signal Processing"
+    }
+]

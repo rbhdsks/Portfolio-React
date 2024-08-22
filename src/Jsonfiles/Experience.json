@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "company": "Maker’s Lab — Tech Mahindra",
+      "position": "Data Science Intern",
+      "duration": "May 2024 - Aug 2024",
+      "place": "Pune, India",
+      "points": [
+        {
+          "p": "Experienced in diffusion modeling methods for unpaired image-to-image translation"
+        },
+        {
+          "p": "Explored the verificability of AI, focusing on transparency and auditability issues in AI models to ensure robust and explainable AI systems"
+        },
+        {
+          "p": "Contributed to Project INDUS, an initiative to develop a Large Language Model (LLM) from scratch, focusing on model architecture, training techniques, and ethical considerations in AI"
+        }
+      ]
+    },
+
+    {
+        "id": 2,
+        "company": "C3iHub — IIT-Kanpur",
+        "position": "UG Student Fellowship",
+        "duration": "Nov 2023 - Ongoing",
+        "place": "Kanpur, India",
+        "points": [
+          {
+            "p": "Identified Bluetooth communication packets with encryption using the BT-HCI protocols and their corresponding opcodes via Pyshark"
+          },
+          {
+            "p": "Developed a Python script for pairing and processing the packets and conducted extensive security audits on different Bluetooth devices"
+          }
+        ]
+      }      
+  ]
+  

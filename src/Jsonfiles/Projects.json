@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "title": "Indian Army Project — Human-Following Bot — Software Side",
+      "subtitle": "Indian Army - Ladakh Scouts",
+      "duration": "Sept 2023 - May 2024",
+      "keytechnology": "GANs, Python, PyTorch",
+      "links" : "https://github.com/rbhdsks/INDIANARMYPROJECT--TinyYolo/",
+      "points": [
+        {
+          "p": "Utilized GANs for data augmentation to create a diverse dataset for training the YOLO v7 model, enhancing its accuracy and robustness"
+        },
+        {
+          "p": "Trained the IIIT dataset containing photos with a Synthetic Rain Algorithm called SYRA GAN"
+        },
+        {
+          "p": "Achieved a Frechet Inception Distance (FID) score of 31.4, indicating a high quality of generated images relative to the original photos"
+        }
+      ]
+    }
+  ]
+  

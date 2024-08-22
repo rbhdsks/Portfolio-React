@@ -1,0 +1,344 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@700&display=swap');
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.me-auto {
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Monsterrat', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Monsterrat', sans-serif;
+    font-weight: bold;
+    color: #ffffffb8;
+}
+
+Nav button{
+    border: none;
+    background-color: #a1e4c1cc;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 20px;
+    font-family: 'Monsterrat', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Asap', sans-serif;
+    color:#ffffff;
+}
+
+.navbar {
+    border: none;
+    margin: 3vm;
+}
+
+.color-nav {
+    width: 100%;
+    background-color: #005757;
+}
+
+.navbar-brand:hover {
+    color: #ffffff;
+}
+
+.intro{
+  display: flex;
+}
+
+.home {
+    width: 350px;
+    margin-left: 50px;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: #a1e4c144;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .profilepic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .profile-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 15px 0 5px;
+    color: #005757;
+    font-family: 'Monsterrat', sans-serif;
+  }
+  
+  .profile-title {
+    font-size: 1em;
+    color: #005757;
+    margin-bottom: 5px;
+    font-family: 'Monsterrat', sans-serif;
+  }
+
+  .social-icons img{
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+  }
+
+  
+  .about-me {
+    font-family: 'Arial', sans-serif;
+    padding: 40px;
+    max-width: 900px;
+    margin-top: 50px;
+    margin-left: 50px;
+    line-height: 1.6;
+  }
+  .heading{
+    color: #005757;
+    font-family: 'Asap', sans-serif;
+    font-size: 36px;
+  }
+
+  .subheading{
+    color: #005757;
+    font-family: 'Asap', sans-serif;
+    font-size: 24px;
+  }
+
+  p{
+    font-size: 17px;
+  }
+
+  .about-me .child{
+    display: flex;
+  }
+
+  .interests{
+    margin-right: 50px ;
+  }
+
+  .education{
+    list-style: none;
+  }
+
+  .education li{
+    display: flex;
+  }
+
+  .hat-image{
+    height: 24px;
+    width: 24px;
+  }
+
+  .subheading1{
+    color: #000000;
+    font-family: 'Asap', sans-serif;
+    font-size: 18px;
+  }
+
+  .publications {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+   
+  .publications div {
+    margin-bottom: 30px;
+    padding: 15px;
+    border-bottom: 1px solid #e0e0e0; 
+  }
+
+  .publications div:last-child {
+    border-bottom: none; 
+  }
+
+  .activities{
+    width: 100%;
+     padding: 50px;
+     background-color: #a1e4c144;
+  }
+
+  .activities img{
+    height: 400px;
+    margin: 20px;
+  }
+
+  .Contact{
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  .Contact .heading {
+      color: rgba(0, 0, 0, 0.8);
+      font-family: 'Asap', sans-serif;
+      margin: 20px
+  }
+
+  .Contact input {
+      background-color: #fffefe;
+      width: 500px;
+      height: 50px;
+      color: rgb(0, 0, 0);
+      margin: 20px;
+      border: 1px solid rgba(0, 0, 0, 0.55);
+      padding: 10px;
+      border-radius: 4px;
+  }
+
+  .Contact textarea {
+      width: 500px;
+      color: rgb(0, 0, 0);
+      margin: 20px;
+      padding: 10px;
+      border-radius: 4px;
+  }
+
+  .Contact .container {
+      margin-top: 8vh;
+      margin-bottom: 8vh;
+      align-items: center;
+  }
+
+  .Contact button {
+      border: none;
+      background-color: #002244;
+      color: rgb(255, 255, 255);
+      padding: 8px 12px;
+      font-size: 14px;
+      font-weight: 600;
+      border-radius: 7px;
+      margin: 20px;
+      font-family: 'Monsterrat', sans-serif;
+  }
+
+  .footer {
+    width: 100%;
+    background-color: #005757;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    bottom: 0;
+  }
+
+  .news{
+    border-radius:0 ;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-links {
+    margin-bottom: 10px;
+  }
+  
+  .footer-link {
+    color: #61dafb;
+    text-decoration: none;
+    margin: 0 15px;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-socials {
+    margin-bottom: 10px;
+  }
+  
+  .footer-social-link {
+    color: #ffffff;
+    margin: 0 10px;
+    font-size: 24px;
+  }
+  
+  .footer-social-link:hover {
+    color: #61dafb;
+  }
+  
+  .footer-text {
+    font-size: 14px;
+    margin: 0;
+  }
+  
+
+  @media only screen and (max-width: 1050px) {
+      .Contact input,
+      .Contact textarea {
+          width: 80%;
+          margin: 5px;
+      }
+      .Contact button {
+          margin: 5px;
+      }
+
+      .experience{
+        max-width: 900px;
+        margin: auto;
+      }
+    
+      .experience-ul{
+          margin-top: 50px;
+          margin-left: 50px;
+          list-style: none;
+      }
+    
+      .experiencelist{
+        border-radius: 5px;
+        margin-bottom:40px ;
+        background-color: #efefef;
+        padding: 30px;
+      }
+  }
+
+ @media screen and (max-width : 1350px){
+    .intro{
+      display: block;
+    }
+    .home{
+      width: 100%;
+      margin: 0;
+    }
+    .about-me{
+      margin: auto;
+    }
+  }
+  
+  @media screen and (max-width : 900px){
+    .about-me .child{
+      display: block;
+    }
+    .activities{
+       padding: 10px;
+    }
+    .activities img{
+      height: 200px;
+      margin: 20px;
+    }
+  }
+
+
+  @media only screen and (max-width: 430px) {
+      .Contact input,
+      .Contact textarea {
+          width: 95%;
+          margin: 5px;
+          display: flex;
+          align-items: center;
+      }
+      .education {
+        width: 100%;
+        padding: 0;
+      }
+  }
