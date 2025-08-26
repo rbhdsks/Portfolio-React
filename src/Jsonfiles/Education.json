@@ -1,7 +1,12 @@
 [
-    {
-      "id": 1,
-      "qualification": "B.Tech in Information Technology - Business Informatics",
-      "institution": "Indian Institute of Information Technology, Allahabad"
-    }
-] 
+  {
+    "id": 1,
+    "qualification": "M.Tech in Data Science and Artificial Intelligence",
+    "institution": "Indian Institute of Technology, Madras"
+  },
+  {
+    "id": 2,
+    "qualification": "B.Tech in Information Technology - Business Informatics",
+    "institution": "Indian Institute of Information Technology, Allahabad"
+  }
+]
