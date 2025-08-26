@@ -1,14 +1,70 @@
 [
   {
-    "id" : 1,
-    "authors" : "S. Pandey, Dr. Ranjit Singh, Nitesh Kr. Shah",
-    "title" : "Enhancement of Stock Market Strategies with Sentiment Analysis and Stress Indices: A Decade of Insights from HuffPost Data via FinBERT",
-    "paperlink" : "https://drive.google.com/file/d/1c2aCPS_9Unt2gPc4UDFnDzbNjc31ppqt/view",
-    "linkdisplay" : "IEEE Explore Link",
-    "points" : [
-        {
-            "p": "Best Paper Award: International Conference of Behavioural Finance’24"
-        }
+    "id": 1,
+    "authors": "S. Pandey, Dr. Ranjit Singh, Nitesh Kr. Shah",
+    "title": "Enhancement of Stock Market Strategies with Sentiment Analysis and Stress Indices: A Decade of Insights from HuffPost Data via FinBERT",
+    "paperlink": "https://drive.google.com/file/d/1c2aCPS_9Unt2gPc4UDFnDzbNjc31ppqt/view",
+    "linkdisplay": "IEEE Explore Link",
+    "points": [
+      {
+        "p": "Best Paper Award: International Conference of Behavioural Finance’24"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "authors": "A. Bidhan, N. K. Shah, R. Kumar, V. Gupta, S. Prakash",
+    "title": "An Efficient ADAS Framework for Cross-Domain Image Translation and Feature Preservation Utilizing CycleGAN",
+    "paperlink": "Presented at CONFLUENCE 2025 (Springer LNEE, forthcoming)",
+    "linkdisplay": "Springer LN Electrical Engineering",
+    "points": [
+      {
+        "p": "Presented at 15th Int. Conference on Cloud Computing, Data Science and Engineering (CONFLUENCE 2025), Noida, India"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "authors": "N. K. Shah et al.",
+    "title": "A Novel Adaptation of the UNIT Framework for Cross-Domain Climate Data Translation with Enhanced Feature Preservation",
+    "paperlink": "Scheduled for publication via Springer",
+    "linkdisplay": "SPIN 2025 Conference",
+    "points": [
+      {
+        "p": "Presented at 12th International Conference on Signal Processing and Integrated Networks (SPIN 2025)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "authors": "S. Pandey, R. Singh, N. K. Shah, A. Bidhan",
+    "title": "Integrating FinBERT Sentiment with Financial Stress for Optimized Portfolio Performance",
+    "paperlink": "Published in Academy of Marketing Studies Journal, 2025",
+    "linkdisplay": "Academy of Marketing Studies Journal",
+    "points": []
+  },
+  {
+    "id": 5,
+    "authors": "N. K. Shah, J. Gadde, A. Bidhan, K. Gullapalli, C. P. Maurya, N. Singh",
+    "title": "Kathmandu Road Dataset: Ratnapark to Tripureshwor",
+    "paperlink": "https://doi.org/10.7910/DVN/38E8AG",
+    "linkdisplay": "Harvard Dataverse DOI",
+    "points": [
+      {
+        "p": "Open-source dataset published on Harvard Dataverse"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "authors": "N. K. Shah, J. Gadde, N. Singh, C. P. Maurya, S. K. Singh",
+    "title": "RainGAN-Kathmandu: A Generative Adversarial Framework for Synthetic Rainfall Augmentation in Urban Road Scene Datasets",
+    "paperlink": "Accepted for presentation at IEEE TENCON Malaysia 2025",
+    "linkdisplay": "IEEE TENCON 2025",
+    "points": [
+      {
+        "p": "Scheduled for presentation at IEEE TENCON, Kuala Lumpur, Oct 27–30, 2025"
+      }
     ]
   }
 ]
