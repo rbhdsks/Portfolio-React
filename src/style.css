@@ -105,6 +105,7 @@ Nav button{
     color: #005757;
     font-family: 'Asap', sans-serif;
     font-size: 36px;
+    margin-top: 20px;
   }
 
   .subheading{
@@ -146,17 +147,21 @@ Nav button{
 
   .publications {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 50px;
+    flex-direction: column;   /* stack vertically */
+    align-items: center;      /* center horizontally */
+    justify-content: flex-start; /* keep content from top, not middle */
+    margin: 50px auto;        /* center container */
+    max-width: 70%;         /* control width for readability */
+    padding: 20px;
   }
-   
+
   .publications div {
+    width: 100%;              /* take full width of container */
     margin-bottom: 30px;
     padding: 15px;
     border-bottom: 1px solid #e0e0e0; 
+    text-align: left;         /* keep text aligned left inside */
   }
-
   .publications div:last-child {
     border-bottom: none; 
   }
@@ -271,6 +276,24 @@ Nav button{
     font-size: 14px;
     margin: 0;
   }
+
+  .experience{
+        max-width: 900px;
+        margin: auto;
+      }
+    
+      .experience-ul{
+          margin-top: 50px;
+          margin-left: 50px;
+          list-style: none;
+      }
+    
+      .experiencelist{
+        border-radius: 5px;
+        margin-bottom:40px ;
+        background-color: #efefefae;
+        padding: 30px;
+      }
   
 
   @media only screen and (max-width: 1050px) {
@@ -300,6 +323,11 @@ Nav button{
         background-color: #efefef;
         padding: 30px;
       }
+
+      .publications {
+    max-width: 85%; 
+    padding: 15px;
+  }
   }
 
  @media screen and (max-width : 1350px){
@@ -326,6 +354,10 @@ Nav button{
       height: 200px;
       margin: 20px;
     }
+    .publications {
+    max-width: 95%; 
+    padding: 15px;
+  }
   }
 
 
@@ -341,4 +373,8 @@ Nav button{
         width: 100%;
         padding: 0;
       }
+       .publications {
+    max-width: 100%; 
+    padding: 5px;
+  }
   }

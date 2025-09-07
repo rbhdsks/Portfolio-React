@@ -5,7 +5,7 @@ import googlescholar from "../Images/googlescholar.png"
 
 export default function Footer (){
   return (
-    <footer className="footer">
+    <footer className="footer" id="Footer">
       <div className="footer-content">
         <div className="footer-links">
         </div>

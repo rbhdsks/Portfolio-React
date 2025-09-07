@@ -5,9 +5,9 @@ import Main from './Pages/main';
 import Publications from './Components/Publications';
 import Projects from "./Components/Projects";
 import Activities from './Components/Activities';
-import Contact from './Components/Contact';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Footer from './Components/Footer';
+import Experience from './Components/Experience';
 
 function App() {
   return (
@@ -18,8 +18,9 @@ function App() {
           <Route path="/" element={<Main />} />
           <Route path="/publications" element={<Publications />} />
           <Route path='/projects' element={<Projects/>}/>
+          <Route path='/experience' element={<Experience/>}/>
           <Route path='/activities' element={<Activities/>}/>
-          <Route path='/contact' element={<Contact/>}/>
+          {/* <Route path='/contact' element={<Contact/>}/> */}
       </Routes>
       <Footer/>
     </div>

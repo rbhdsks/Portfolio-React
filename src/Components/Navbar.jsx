@@ -15,15 +15,17 @@ function CollapsibleExample() {
             <Nav.Link as={Link} to="/">About</Nav.Link>
             <Nav.Link as={Link} to="/publications">Publications</Nav.Link>
             <Nav.Link as={Link} to="/projects">Projects</Nav.Link>
-            {/* <Nav.Link as={Link} to="/skills">Skills</Nav.Link> */}
+            <Nav.Link as={Link} to="/experience">Experience</Nav.Link>
             <Nav.Link as={Link} to="/activities">Activities</Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Link href="https://drive.google.com/file/d/1GDC_FEOHnSRhW--928kONhdXkCPhMqoG/view" target="_blank">
+            <Nav.Link href="https://drive.google.com/file/d/1xRma3Y8B-GfU0DqElGtldT7lrxwzwB6o/view" target="_blank">
               <Button variant="outline-light" className="mx-2">Academic CV</Button>
             </Nav.Link>
-            <Nav.Link as={Link} to="/contact">
-              <Button variant="outline-light">Contact</Button>
+            <Nav.Link>
+            <Button variant="outline-light" className="mx-2" onClick={() => document.getElementById("Footer").scrollIntoView({ behavior: "smooth" })}>
+              Contact 
+            </Button>
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
