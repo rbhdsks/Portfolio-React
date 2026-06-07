@@ -7,20 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am **Nitesh Kumar Shah**, an M.Tech. researcher in **Data Science and Artificial Intelligence** at the **Indian Institute of Technology Madras (IIT Madras)**, where I hold a full scholarship (tuition waiver + stipend) from the Global Engagement Office. I completed my B.Tech. in Information Technology (Business Informatics) at **IIIT Allahabad**.
-
-My research sits at the intersection of **generative models, computer vision, and applied machine learning**. I am especially interested in generative adversarial networks for data augmentation and cross-domain image translation, diffusion models, and bringing learning-based systems out of the lab and into difficult real-world conditions — from rainy night-time roads to resource-constrained IoT devices.
+I am **Nitesh Kumar Shah**, an M.Tech. student in **Data Science and Artificial Intelligence**  department at the **Indian Institute of Technology Madras (IIT Madras)**, where I hold a full scholarship (tuition waiver + stipend) from the GE Scholar. I completed my B.Tech. in Information Technology (Specialization in Business Informatics) at **IIIT Allahabad**.
+I am currently studying with research interests in understanding the foundations behind the learning algorithms.. human decision-making, and preference modeling. My thesis focuses on studying context effects from random choice data and understanding how changing contexts influence human decision-making and preferences. I am also exploring learning from human preferences to develop more behavior-aware AI systems. My broader interests include generative AI, intelligent systems, and data-driven decision making.
+Apart from this, nowadays I enjoy spending my rest of free time doing competitive coding and solving Deep-ML questions.
 
 Research interests
 ======
-- **Generative models** — GANs (CycleGAN, UNIT, RainGAN), diffusion models for unpaired image-to-image translation
-- **Computer vision** — synthetic data augmentation, feature preservation, ADAS and autonomous navigation
-- **Applied & financial ML** — RAG-LLM pipelines, FinBERT sentiment, quantitative strategies
-- **Security** — Bluetooth Low Energy auditing and IoT security frameworks
+- Theoretical Machine Learning
+- Computer Vision Algorithms
 
 Currently
 ======
-- **AI Architect Intern**, *Deep Intelligence* (Sydney, AU) — designing agentic AI systems on AWS (SageMaker, EC2).
+- **AI Architect Intern**, *Deep Intelligence* (Sydney, NSW) — designing agentic AI systems.
 - **M.Tech. Data Science & AI**, *IIT Madras* — coursework and research.
 
-I have published and presented across **IEEE TENCON, CONFLUENCE, and SPIN**, contributed an open dataset to **Harvard Dataverse**, and built a GAN-powered **human-following robot selected by the Indian Army**. You can browse my [publications](/publications/), [projects](/portfolio/), and full [CV](/cv/), or reach me at [sirali.nitesh@gmail.com](mailto:sirali.nitesh@gmail.com).
+I have published and presented across **IEEE TENCON, CONFLUENCE, and SPIN**, contributed an open dataset to **Harvard Dataverse**, and also worked on cybersecurity building a framework auditing and verifying the security aspects of bluetooth low energy devices. You can browse my [publications](/publications/), [projects](/portfolio/), and full [CV](/cv/), or reach me at [sirali.nitesh@gmail.com](mailto:sirali.nitesh@gmail.com).
