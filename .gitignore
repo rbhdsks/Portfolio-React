@@ -1,23 +1,23 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# Ignore the directory for local files during development
+local/
 
-# testing
-/coverage
+# Ignore the Gemfile that is generated
+Gemfile.lock
 
-# production
-/build
+# Ignore files created by npm
+node_modules
+package-lock.json
 
-# misc
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
+
+# Ignore folders related to IDEs
+.vscode/
+
+# Ignore files created by MacOS
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
